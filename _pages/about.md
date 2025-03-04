@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from the National University of Defense Technology. My research interest includes computer vision, machine learning.
+I'm a second year graduate student from the National University of Defense Technology. My research interest includes computer vision, machine learning.
 
 
 [Email](chenzimo19@nudt.edu.cn) / [Github](https://github.com/cassda)
